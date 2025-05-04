@@ -1,7 +1,10 @@
 {
-  "tokens": [
-    "TOKEN1",
-    "TOKEN2",
-    "TOKEN3"
+  "users": [
+    {
+      "token": "TOKENRAHASIA123",
+      "owner": "6281234567890",
+      "bot_name": "RapixBotZ",
+      "valid_until": "2025-12-31"
+    }
   ]
 }
